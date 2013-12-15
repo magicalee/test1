@@ -1,5 +1,5 @@
 ##test1
-Test1 is a simple game on java.I used all what I have learned now to write it which just like the Minesweeper Flags installed 
+Test1 is a simple game on java.I used what I have learned now to write it which just like the Minesweeper Flags installed 
 in window.
 
 ##Getting start
